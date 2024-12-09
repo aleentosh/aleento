@@ -1,5 +1,6 @@
 - 👋 Hi, I’m aleento;
 - 👀 I’m interested in technology and gaming;
+- ✅I'm specialized in Hackintosh;
 - 🌱 I’m currently learning how to create games, vscodes, hackintosh, etc...
 
 <!---
